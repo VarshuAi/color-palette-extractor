@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Extracts dominant color blocks from loaded images.
+  name: color-palette-extractor version: 1.0 type: Repository author: VarshuAi description: >   Extracts dominant color blocks from loaded images. primary_tech: CSS
 primary_tech: CSS
 ```
 
